@@ -2,8 +2,7 @@
 
 ## Olá a todos 👋
 </br>Sou apaixonado por programação, nada melhor que achar soluções por meio de código.
-</br>Atualmente eu trabalho como analista dimensional pela WHB-Automotive.
-</br>Procuro a primeira oportunidade para adentrar a área de programação
+</br>Atualmente eu trabalho como estagiário na Tizer Tecnologia.
 
 ## Conhecimentos que possuo:
 </br>C# - Unity e Windowsform.
