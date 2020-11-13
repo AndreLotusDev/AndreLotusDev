@@ -10,6 +10,8 @@
 </br>Python - Glade.
 </br>Lua - Lua2D.
 </br>Inglês - Intermediário.
+</br>Git - GitHUB e GitFlow.
+</br>PostgreSQL - DBeaver.
 
 ## Habilidades.
 </br>Proatividade, organização e autodidatismo.
