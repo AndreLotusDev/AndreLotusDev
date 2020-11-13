@@ -5,7 +5,7 @@
 </br>Atualmente eu trabalho como estagiário na Tizer Tecnologia.
 
 ## Conhecimentos que possuo:
-</br>C# - Unity e Windowsform.
+</br>C# - Unity(Proton e Bolt), Windowsform, Blazor e Razor + NetCore2.2.
 </br>Web - Javascript (ES6), PHP, CSS(Bootstrap) e HTML.
 </br>Python - Glade.
 </br>Lua - Lua2D.
