@@ -2,7 +2,6 @@
 
 ## Olá a todos 👋
 </br>Sou apaixonado por programação, nada melhor que achar soluções por meio de código.
-</br>Atualmente eu trabalho como estagiário na Tizer Tecnologia.
 
 ## Conhecimentos que possuo:
 </br>C# - Unity(Proton e Bolt), Windowsform, Blazor e Razor + NetCore2.2.
