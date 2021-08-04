@@ -4,17 +4,29 @@
 </br>Sou apaixonado por programação, nada melhor que achar soluções por meio de código.
 
 ## Conhecimentos que possuo:
-</br>C# - Unity(Proton e Bolt), Windowsform, Blazor e Razor + NetCore2.2.
-</br>Web - Javascript (ES6), PHP, CSS(Bootstrap) e HTML.
-</br>Python - Glade.
-</br>Lua - Lua2D.
-</br>Inglês - Intermediário.
-</br>Git - GitHUB e GitFlow.
-</br>PostgreSQL.
-</br>SqlServer
+
+<b>Ferramentas (Tools)</b>
+<ul>
+  <li>C# | .NET & .NET CORE | Blazor | Razor </li>
+  <li>Javascript | Jquery | Angular | VUE </li>
+  <li>Entity framework | Dapper </li>
+  <li>Unity | Proton </li>
+  <li>Azure e AWS </li>
+  <li>SQL Server | PostgreSQL | Oracle e MySQL </li>
+</ul>
+
+<b>Conhecimentos (knowledge)</b>
+<ul>
+  <li>DDD | TDD</li>
+  <li>MVC | MVVM</li>
+  <li>SOLID</li>
+  <li>Clean Code</li>
+  <li>Clean Architeture</li>
+  <li>Design pattherns (GOF)</li>
+</ul>
 
 ## Habilidades.
-</br>Proatividade, organização e autodidatismo.
+</br>Proatividade, organização e autodidatismo (não possuo dificuldade pra aprender coisa nova).
 
 ## Contato
 </br>Caso tenha interesse em meu perfil, seguem os meus contatos:
