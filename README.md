@@ -29,7 +29,7 @@
 
 ## Contact
 </br>If you want to try a business contact, here it's my business contacts:
-</br>WPP|TELEGRAM : +55 41 98866-4960
+</br>WPP | TELEGRAM : +55 41 98866-4960
 </br>Email: andrsoares953@yahoo.com
 
 <strong>Thanks for the visualization !</strong>
