@@ -1,11 +1,10 @@
 # André Soares Gomes.
 
-## Olá a todos 👋
-</br>Sou apaixonado por programação, nada melhor que achar soluções por meio de código.
+## Hello everyone 👋
 
-## Conhecimentos que possuo:
+## HARD and SOFT SKILLS:
 
-<b>Ferramentas (Tools)</b>
+<b>Tools/Frameworks</b>
 <ul>
   <li>C# | .NET & .NET CORE | Blazor | Razor </li>
   <li>Javascript | Jquery | Angular | VUE </li>
@@ -15,7 +14,7 @@
   <li>SQL Server | PostgreSQL | Oracle e MySQL </li>
 </ul>
 
-<b>Conhecimentos (knowledge)</b>
+<b>Knowledges</b>
 <ul>
   <li>DDD | TDD</li>
   <li>MVC | MVVM</li>
@@ -25,12 +24,12 @@
   <li>Design pattherns (GOF)</li>
 </ul>
 
-## Habilidades.
-</br>Proatividade, organização e autodidatismo (não possuo dificuldade pra aprender coisa nova).
+## Strong points
+</br>Proactivity, organization and auto-ditatism (as an any other good programmer 😏).
 
-## Contato
-</br>Caso tenha interesse em meu perfil, seguem os meus contatos:
-</br>WPP e celular: 41 98866-4960
+## Contact
+</br>If you want to try a business contact, here it's my business contacts:
+</br>WPP|TELEGRAM : +55 41 98866-4960
 </br>Email: andrsoares953@yahoo.com
 
-<strong>Grato pela visualização !</strong>
+<strong>Thanks for the visualization !</strong>
