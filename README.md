@@ -21,7 +21,8 @@
   <li>SOLID</li>
   <li>Clean Code</li>
   <li>Clean Architeture</li>
-  <li>Design pattherns (GOF)</li>
+  <li>Object Calisthenics</li>
+  <li>Design pattherns (GOF)</li> 
 </ul>
 
 ## Strong points
