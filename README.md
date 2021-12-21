@@ -9,10 +9,9 @@
   <li>C# | .NET & .NET CORE | Blazor | Razor </li>
   <li>Javascript | Jquery | Angular | VUE </li>
   <li>Entity framework | Dapper </li>
-  <li>Unity | Proton </li>
+  <li>Unity with ECS or OO </li>
   <li>Azure e AWS </li>
   <li>SQL Server | PostgreSQL | Oracle e MySQL </li>
-  <li>AWS / AZURE</li>
 </ul>
 
 <b>Knowledges</b>
