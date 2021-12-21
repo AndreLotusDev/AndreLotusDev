@@ -12,6 +12,7 @@
   <li>Unity | Proton </li>
   <li>Azure e AWS </li>
   <li>SQL Server | PostgreSQL | Oracle e MySQL </li>
+  <li>AWS / AZURE</li>
 </ul>
 
 <b>Knowledges</b>
