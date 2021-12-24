@@ -43,7 +43,7 @@
   <li>Javascript | Jquery | Angular | VUE </li>
   <li>Python | Flask | Django</li>
   <li>Entity framework | Dapper </li>
-  <li>Unity with ECS and OO </li>
+  <li>Unity | Godot </li>
   <li>Azure e AWS </li>
   <li>Azure CI CD</li>
   <li>SQL Server | PostgreSQL | Oracle | MySQL | REDIS | MongoDB </li> 
