@@ -55,6 +55,7 @@
 <ul>
   <li>DDD | TDD</li>
   <li>MVC | MVVM</li>
+  <li>ECS for game development</li>
   <li>SOLID</li>
   <li>Clean Code</li>
   <li>Clean Architeture</li>
