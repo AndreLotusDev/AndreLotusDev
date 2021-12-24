@@ -58,7 +58,7 @@
   <li>ECS for game development</li>
   <li>SOLID</li>
   <li>Clean Code</li>
-  <li>Clean Architeture</li>
+  <li>Clean Architecture</li>
   <li>Object Calisthenics</li>
   <li>Design pattherns (GOF)</li> 
 </ul>
