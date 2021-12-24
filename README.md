@@ -39,12 +39,16 @@
 
 <b>Tools/Frameworks</b>
 <ul>
-  <li>C# | .NET & .NET CORE | Blazor | Razor </li>
+  <li>C# | .NET & .NET CORE | Blazor | Razor | ASP MVC </li>
   <li>Javascript | Jquery | Angular | VUE </li>
+  <li>Python | Flask | Django</li>
   <li>Entity framework | Dapper </li>
-  <li>Unity with ECS or OO </li>
+  <li>Unity with ECS and OO </li>
   <li>Azure e AWS </li>
-  <li>SQL Server | PostgreSQL | Oracle e MySQL </li>
+  <li>Azure CI CD</li>
+  <li>SQL Server | PostgreSQL | Oracle | MySQL | REDIS | MongoDB </li> 
+  <li>Lua | Love2D</li>
+  <li>Docker for .NET</li>
 </ul>
 
 <b>Knowledges</b>
@@ -62,8 +66,8 @@
 </br>Proactivity, organization and auto-ditatism (as an any other good programmer 😏).
 
 ## Contact
-</br>If you want to try a business contact, here it's my business contacts:
-</br>WPP | TELEGRAM : +55 41 98866-4960
-</br>Email: andrsoares953@yahoo.com
+</br><p>If you want to try a business contact, here it's my business contacts:</p>
+</br><p>WPP | TELEGRAM : +55 41 98866-4960</p>
+</br><p>Email: andrsoares953@yahoo.com</p>
 
 <strong>Thanks for the visualization !</strong>
