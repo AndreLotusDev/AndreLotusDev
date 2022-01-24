@@ -64,7 +64,7 @@
 </ul>
 
 ## Strong points
-</br>Proactivity, organization and auto-ditatism (as an any other good programmer 😏).
+</br>Proactivity, organization and auto-ditatism (as any other good programmer 😏).
 
 ## Contact
 </br><p>If you want to try a business contact, here it's my business contacts:</p>
