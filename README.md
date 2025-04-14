@@ -34,40 +34,45 @@
 
 ## Hello everyone 👋
 
-## HARD and SOFT SKILLS:
+### 💼 Hard and Soft Skills
 
-<b>Tools/Frameworks</b>
-<ul>
-  <li>C# | .NET & .NET CORE | Blazor | Razor | ASP MVC </li>
-  <li>Javascript | Jquery | Angular | VUE </li>
-  <li>Python | Flask | Django</li>
-  <li>Entity framework | Dapper </li>
-  <li>Unity | Godot </li>
-  <li>Azure e AWS </li>
-  <li>Azure CI CD</li>
-  <li>SQL Server | PostgreSQL | Oracle | MySQL | REDIS | MongoDB </li> 
-  <li>Lua | Love2D</li>
-  <li>Docker for .NET</li>
-</ul>
+**🛠 Tools & Frameworks**
+- C# | .NET / .NET Core | Blazor | Razor | ASP.NET MVC
+- JavaScript | jQuery | Angular | Vue
+- Python | Flask | Django
+- Entity Framework | Dapper
+- Unity | Godot
+- Azure | AWS
+- Azure DevOps (CI/CD)
+- SQL Server | PostgreSQL | Oracle | MySQL | Redis | MongoDB
+- Lua | LÖVE2D
+- Docker (focused on .NET)
 
-<b>Knowledges</b>
-<ul>
-  <li>DDD | TDD</li>
-  <li>MVC | MVVM</li>
-  <li>ECS for game development</li>
-  <li>SOLID</li>
-  <li>Clean Code</li>
-  <li>Clean Architecture</li>
-  <li>Object Calisthenics</li>
-  <li>Design pattherns (GOF)</li> 
-</ul>
+**📚 Knowledge**
+- DDD | TDD
+- MVC | MVVM
+- ECS (for game development)
+- SOLID Principles
+- Clean Code
+- Clean Architecture
+- Object Calisthenics
+- Design Patterns (GoF)
 
-## Strong points
-</br>Proactivity, organization and auto-ditatism (as any other good programmer 😏).
+---
 
-## Contact
-</br><p>If you want to try a business contact, here it's my business contacts:</p>
-</br><p>WPP | TELEGRAM : +55 41 98866-4960</p>
-</br><p>Email: andrsoares953@yahoo.com</p>
+### 💪 Strong Points
 
-<strong>Thanks for the visualization !</strong>
+Proactivity, organization, and self-learning (like any good programmer 😏)
+
+---
+
+### 📞 Contact
+
+If you'd like to get in touch for business opportunities:
+
+- WhatsApp / Telegram: **+55 41 98866-4960**  
+- Email: **andrsoares953@yahoo.com**
+
+---
+
+**Thanks for stopping by! 🙌**
