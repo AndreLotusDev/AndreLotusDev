@@ -9,29 +9,41 @@
 
 <br />
 
-<p align="center">
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img height="48" width="48" src="https://img.icons8.com/nolan/50/unity.png"/>
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <img height="48" width="48" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img height="48" width="48" src="https://img.icons8.com/nolan/50/flask.png"/>
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-</p>
+<div align="center">
+
+  <table>
+    <tr>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></td>
+      <td><img height="48" width="48" src="https://img.icons8.com/nolan/50/unity.png"/></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /></td>
+      <td><img height="48" width="48" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /></td>
+    </tr>
+    <tr>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></td>
+      <td><img height="48" width="48" src="https://img.icons8.com/nolan/50/flask.png"/></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg" /></td>
+      <td><img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></td>
+    </tr>
+    <tr>
+      <td colspan="10" align="center">
+        <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+      </td>
+    </tr>
+  </table>
+
+</div>
   
 
 ## Hello everyone 👋
