@@ -2,33 +2,33 @@
 
 <div align="center">
   <a href="https://github.com/AndreLotusDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreLotusDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLotusDev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndreLotusDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndreLotusDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="text-align: center">
   </br>
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img height="48" width="48" src="https://img.icons8.com/nolan/50/unity.png"/>
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <img height="48" width="48" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img height="48" width="48" src="https://img.icons8.com/nolan/50/flask.png"/>
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg" />
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/amazonaws/232F3E" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/vue.js/4FC08D" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/typescript/3178C6" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/trello/0052CC" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/redis/DC382D" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/python/3776AB" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/oracle/F80000" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/mysql/4479A1" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/lua/2C2D72" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/jquery/0769AD" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/godotengine/478CBF" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/git/F05032" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/flask/000000"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/bulma/00D1B2" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/bootstrap/7952B3" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/microsoftazure/0078D4" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/dotnet/512BD4" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/csharp/239120">
 </div>
   
 
